@@ -6,6 +6,8 @@ There are Nreaders to read data and KWriters to write data to shared resources
 
 ### Used Programming language 
 java javafx javaswing mulitthreading 
+### Animation video link
+https://drive.google.com/drive/folders/1hK5gKrNI1XFrslZa3B3HTTmiv4oePycm
 
 
 
